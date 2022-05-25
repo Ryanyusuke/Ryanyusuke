@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ryan Yusuke
+- ⚽ I'm Brazilian :D
+- 👀 Interested in Work with programming...
+- 🌱 Currently learning Python and C
+- 📫 How to reach me: megacidadeb2@hotmail.com
